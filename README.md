@@ -98,6 +98,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 ### Eletrônica Geral
 - [FilipeFlop](https://www.filipeflop.com/) - Loja de Santa Catarina focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
 - [Robocore](https://www.robocore.net/) - Loja também focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
+- [Ryndack Componentes](https://www.ryndackcomponentes.com.br/) - Loja de componentes eletrônicos.
 - [Solda Fria](https://www.soldafria.com.br/) - Loja de componentes eletrônicos.
 
 ## Outros
