@@ -23,7 +23,7 @@ Curadoria de links úteis sobre eletrônica em Português.
   - [Fóruns web](#fóruns-web)
   - [Listas de emails](#listas-de-emails)
 - Lojas
-  - [Eletrônica Geral](#eletronica-geral)
+  - [Eletrônica Geral](#eletrônica-geral)
 - Outros 
   - [Outros](#outros)
 
@@ -44,7 +44,11 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Eletrônica ontem, hoje e sempre](http://erl4ever.blogspot.com/) - Blog do Everaldo R. Lima.
 - [Danjovic](http://danjovic.blogspot.com/) - Blog de retrocomputadores e eletrônica.
 - [Blog de Sistemas Incorporados](https://embeddedsystems.io/) - Blog do Fábio Pereira (sim, o dos livros).
-- [Hollo State](http://hollowstate.blogspot.com/) - Blog sobre valvulados.
+- [Hollow State](http://hollowstate.blogspot.com/) - Blog sobre valvulados.
+- [5VCC](http://5vcc.blogspot.com/) - blog do Alexandre Pacman Pereira
+- [FDI Microcontroladores](https://fdi-ffambrin.blogspot.com/) - Blog do professor Francisco Fambrini.
+- [Waglip](http://waglip.blogspot.com/) - Blog do WLip da PiclistBr.
+
 ### Blogs Comerciais
 - [Blog da FilipeFlop](https://www.filipeflop.com/blog/) - Blog da loja FilipeFlop.
 - [Embarcados](https://www.embarcados.com.br/) - Portal de notícias e informações sobre sistemas embarcados.
@@ -55,6 +59,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Tabajara Labs](http://www.tabalabs.com.br/) - Página do Alexandre Tabajara com muito equipamento desmontato.
 - [MSX Pró](http://www.msxpro.com/news.html) - Focado em MSX com muita informação sobre hardware e manutenção.
 - [Paulo Brites Eletrônica e Etc](https://www.paulobrites.com.br/) - Site do professor Paulo Brites.
+- [Victor Trucco](https://www.victortrucco.com/) - Site do Victor Trucco sobre retrocomputação.
 
 
 ### Revistas online
@@ -85,9 +90,10 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Canal do Picco](https://www.youtube.com/user/picco02) - Montagens, experimentos 
 - [Eletrônica para Todos](https://www.youtube.com/c/EletronicaParaTodos/featured) - Canal de estudos sobre a eletrônica, da eletrônica à digital.
 - [Eletrônica Espacial de Natal](https://www.youtube.com/c/ELETR%C3%94NICAESPACIALDENATAL/featured) - Um TVKX live action, com manutenção de eletrônicos.
+- [Eletrônica e Ideias](https://www.youtube.com/user/pcrbroquetti/featured) - Canal do professor Paulo Roquetti.
 
-## Fórums
-### Eletrônica
+## Fóruns
+### Fóruns Web
 - [ASM51](https://www.asm51.com.br/phpbb/index.php) - Comunidade de desenvolvedores de sistemas embarcados
 - [Robocore](https://www.robocore.com.br/forum/index.php) - Comunidade da loja Robocore
 - [Laboratório de Garagem](https://labdegaragem.com/forum/) - Comunidade do Laboratório de Garagem
