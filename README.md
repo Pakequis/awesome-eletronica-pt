@@ -66,6 +66,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Revista Antenna](https://revistaantenna.com.br/edicoes/) - Novas edições da revista Antenna
 - [Revista INCB Eletrônica](https://www.newtoncbraga.com.br/index.php/2-uncategorised/18571-revista-incb-eletronica.html) - Revistas do Instituto Newton C. Braga.
 - [Revista Radioamdorismo em Fascículos](https://revistaradioamadorismo.blogspot.com/) - Revista com montagens e informações para radioamadorismo.
+- [Revista Saber Eletrônica](https://web.archive.org/web/20160130190603/http://www.sabereletronica.com.br/) - Classica revista eletrônica brasileira. _Ela não existe mais porem deixo o link do Wayback Machine para acessar o site antigo_
 
 ## História
 ### História da Eletrônica no Brasil
@@ -91,6 +92,8 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Eletrônica para Todos](https://www.youtube.com/c/EletronicaParaTodos/featured) - Canal de estudos sobre a eletrônica, da eletrônica à digital.
 - [Eletrônica Espacial de Natal](https://www.youtube.com/c/ELETR%C3%94NICAESPACIALDENATAL/featured) - Um TVKX live action, com manutenção de eletrônicos.
 - [Eletrônica e Ideias](https://www.youtube.com/user/pcrbroquetti/featured) - Canal do professor Paulo Roquetti.
+- [Valdemar Gomes](https://www.youtube.com/user/demainfo) - Canal onde é mostrado projetos de eletronica classicos estilo Saber Eletrônica da década de 80, e também a manutenção de alguns equipamentos eletrônicos.
+- [Ivega Eletrônica](https://www.youtube.com/user/ivega10) - Canal onde mostra o conserto de equipamentos eletrônicos e também mostra o funcionamento dos circuitos na pratica.
 
 ## Fóruns
 ### Fóruns Web
@@ -106,6 +109,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Robocore](https://www.robocore.net/) - Loja também focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
 - [Ryndack Componentes](https://www.ryndackcomponentes.com.br/) - Loja de componentes eletrônicos.
 - [Solda Fria](https://www.soldafria.com.br/) - Loja de componentes eletrônicos.
+- [Proesi](https://proesi.com.br/) - Loja de componentes eletrônicas.
 
 ## Outros
 ### Outros
