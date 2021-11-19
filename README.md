@@ -29,7 +29,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 
 ## Blogs e sites
 ### Blogs Pessoais
-- [Pakéquis](https//www.pakequis.com.br) - Meu blog pessoal sobre eletrônica, desde 2008.
+- [Pakéquis](https://www.pakequis.com.br) - Meu blog pessoal sobre eletrônica, desde 2008.
 - [Crash Computer](http://www.crashcomputer.com.br) - Blog do Luciano Sturaro com de tudo um pouco.
 - [DQSoft](http://dqsoft.blogspot.com/) - Blog do Senhor Daniel Quadros sobre microcontroladores e outras coisas.
 - [Quick Talk](https://ryan.com.br/blogs/quicktalk/) - blog do Jefferson Ryan, informática e (muitos) aparelhos abertos.
