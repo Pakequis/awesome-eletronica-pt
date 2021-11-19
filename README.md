@@ -95,6 +95,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Eletrônica e Ideias](https://www.youtube.com/user/pcrbroquetti/featured) - Canal do professor Paulo Roquetti.
 - [Valdemar Gomes](https://www.youtube.com/user/demainfo) - Canal onde é mostrado projetos de eletronica classicos estilo Saber Eletrônica da década de 80, e também a manutenção de alguns equipamentos eletrônicos.
 - [Ivega Eletrônica](https://www.youtube.com/user/ivega10) - Canal onde mostra o conserto de equipamentos eletrônicos e também mostra o funcionamento dos circuitos na pratica.
+- [Burgos Eletronica](https://www.youtube.com/channel/UChj6fMg0rjFkH-4ZmvqUWLg) - Luis Carlos Burgos, técnico e professor de eletrônica compartilha seus conhecimentos na área com seus visitantes.
 
 ## Fóruns
 ### Fóruns Web
