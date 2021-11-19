@@ -48,6 +48,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [5VCC](http://5vcc.blogspot.com/) - blog do Alexandre Pacman Pereira
 - [FDI Microcontroladores](https://fdi-ffambrin.blogspot.com/) - Blog do professor Francisco Fambrini.
 - [Waglip](http://waglip.blogspot.com/) - Blog do WLip da PiclistBr.
+- [Neto Home Page](https://www.neto-games.com.br/) - Retrogaming, eletrônica, programação, hardware hacking.
 
 ### Blogs Comerciais
 - [Blog da FilipeFlop](https://www.filipeflop.com/blog/) - Blog da loja FilipeFlop.
@@ -101,7 +102,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Robocore](https://www.robocore.com.br/forum/index.php) - Comunidade da loja Robocore
 - [Laboratório de Garagem](https://labdegaragem.com/forum/) - Comunidade do Laboratório de Garagem
 ### Listas de emails
-- [PiclisBR](https://groups.google.com/g/piclistbr) - Uma das mais antigas lista de emails. Apesar do nome é sobre eletrônica em geral.
+- [PiclistBR](https://groups.google.com/g/piclistbr) - Uma das mais antigas lista de emails. Apesar do nome é sobre eletrônica em geral.
 
 ## Lojas
 ### Eletrônica Geral
