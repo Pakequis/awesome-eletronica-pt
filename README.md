@@ -29,7 +29,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 
 ## Blogs e sites
 ### Blogs Pessoais
-- [Pakéquis](https//www.pakequis.com.br) - Meu blog pessoal sobre eletrônica, desde 2008.
+- [Pakéquis](https://www.pakequis.com.br) - Meu blog pessoal sobre eletrônica, desde 2008.
 - [Crash Computer](http://www.crashcomputer.com.br) - Blog do Luciano Sturaro com de tudo um pouco.
 - [DQSoft](http://dqsoft.blogspot.com/) - Blog do Senhor Daniel Quadros sobre microcontroladores e outras coisas.
 - [Quick Talk](https://ryan.com.br/blogs/quicktalk/) - blog do Jefferson Ryan, informática e (muitos) aparelhos abertos.
@@ -48,6 +48,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [5VCC](http://5vcc.blogspot.com/) - blog do Alexandre Pacman Pereira
 - [FDI Microcontroladores](https://fdi-ffambrin.blogspot.com/) - Blog do professor Francisco Fambrini.
 - [Waglip](http://waglip.blogspot.com/) - Blog do WLip da PiclistBr.
+- [Neto Home Page](https://www.neto-games.com.br/) - Retrogaming, eletrônica, programação, hardware hacking.
 
 ### Blogs Comerciais
 - [Blog da FilipeFlop](https://www.filipeflop.com/blog/) - Blog da loja FilipeFlop.
@@ -94,6 +95,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Eletrônica e Ideias](https://www.youtube.com/user/pcrbroquetti/featured) - Canal do professor Paulo Roquetti.
 - [Valdemar Gomes](https://www.youtube.com/user/demainfo) - Canal onde é mostrado projetos de eletronica classicos estilo Saber Eletrônica da década de 80, e também a manutenção de alguns equipamentos eletrônicos.
 - [Ivega Eletrônica](https://www.youtube.com/user/ivega10) - Canal onde mostra o conserto de equipamentos eletrônicos e também mostra o funcionamento dos circuitos na pratica.
+- [Burgos Eletronica](https://www.youtube.com/channel/UChj6fMg0rjFkH-4ZmvqUWLg) - Luis Carlos Burgos, técnico e professor de eletrônica compartilha seus conhecimentos na área com seus visitantes.
 
 ## Fóruns
 ### Fóruns Web
@@ -101,7 +103,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Robocore](https://www.robocore.com.br/forum/index.php) - Comunidade da loja Robocore
 - [Laboratório de Garagem](https://labdegaragem.com/forum/) - Comunidade do Laboratório de Garagem
 ### Listas de emails
-- [PiclisBR](https://groups.google.com/g/piclistbr) - Uma das mais antigas lista de emails. Apesar do nome é sobre eletrônica em geral.
+- [PiclistBR](https://groups.google.com/g/piclistbr) - Uma das mais antigas lista de emails. Apesar do nome é sobre eletrônica em geral.
 
 ## Lojas
 ### Eletrônica Geral
