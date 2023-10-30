@@ -54,6 +54,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Blog da FilipeFlop](https://www.filipeflop.com/blog/) - Blog da loja FilipeFlop.
 - [Embarcados](https://www.embarcados.com.br/) - Portal de notícias e informações sobre sistemas embarcados.
 - [Automalabs](https://www.automalabs.com.br/) - Blog da loja Automalabs.
+- [Blog Ryndack Componentes](https://blog.ryndackcomponentes.com.br) - Blog da loja Ryndack Componentes, com artigos técnicos e projetos.
 
 ### Sites
 - [PY2BBS Hamradio Page](http://www.py2bbs.qsl.br/news.php) - Página do Luciano Sturaro sobre radiomadorismo e com excelentes exemplos de como montar um projetinho eletrônico.
