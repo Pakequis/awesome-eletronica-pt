@@ -34,7 +34,6 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [DQSoft](http://dqsoft.blogspot.com/) - Blog do Senhor Daniel Quadros sobre microcontroladores e outras coisas.
 - [Quick Talk](https://ryan.com.br/blogs/quicktalk/) - blog do Jefferson Ryan, informática e (muitos) aparelhos abertos.
 - [Potássio-40](https://potassio-40.blogspot.com/) - Blog do Léo Corradini com eletrônica e química.
-- [Blog do Picco](http://blogdopicco.blogspot.com/) - O íncrivel blog do Picco sobre eletrônica e praticamente todas as revistas sobre o assunto para download.
 - [O Pior do meu humor](https://tabajara-labs.blogspot.com/) - Blog do Alexandre Tabajara com muita reclamação, eletrônica e coisas velhas.
 - [E66.8](https://npessoa.blogspot.com/) - Blog do Sô Newton Pessoa. Assuntos gerais, econômia e eletrônica.
 - [Oficina do Wurs](http://oficinadowurs.blogspot.com/) - Blog sobre robôs, eletrônica e outras coisas.
@@ -51,7 +50,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Neto Home Page](https://www.neto-games.com.br/) - Retrogaming, eletrônica, programação, hardware hacking.
 
 ### Blogs Comerciais
-- [Blog da FilipeFlop](https://www.filipeflop.com/blog/) - Blog da loja FilipeFlop.
+- [Blog da Makerhero](https://www.Makerhero.com/blog/) - Blog da loja makerhero.
 - [Embarcados](https://www.embarcados.com.br/) - Portal de notícias e informações sobre sistemas embarcados.
 - [Automalabs](https://www.automalabs.com.br/) - Blog da loja Automalabs.
 - [Blog Ryndack Componentes](https://blog.ryndackcomponentes.com.br) - Blog da loja Ryndack Componentes, com artigos técnicos e projetos.
@@ -90,7 +89,6 @@ Curadoria de links úteis sobre eletrônica em Português.
 - [Navarro Eletrônica](https://www.youtube.com/c/NavarroEletr%C3%B4nica) - Canal do saudoso Felipe Navarro
 - [WR Kits](https://www.youtube.com/c/canalwrkits/featured) - Canal do Wagner Rambo, dedicado à ciência e tecnologia, com ênfase em Engenharia Eletrônica, Robótica e Programação.
 - [Canal XProjetos](https://www.youtube.com/c/xprojetos/featured) - Invenções e experiência de uma forma totalmente caseira.
-- [Canal do Picco](https://www.youtube.com/user/picco02) - Montagens, experimentos 
 - [Eletrônica para Todos](https://www.youtube.com/c/EletronicaParaTodos/featured) - Canal de estudos sobre a eletrônica, da eletrônica à digital.
 - [Eletrônica Espacial de Natal](https://www.youtube.com/c/ELETR%C3%94NICAESPACIALDENATAL/featured) - Um TVKX live action, com manutenção de eletrônicos.
 - [Eletrônica e Ideias](https://www.youtube.com/user/pcrbroquetti/featured) - Canal do professor Paulo Roquetti.
@@ -108,7 +106,7 @@ Curadoria de links úteis sobre eletrônica em Português.
 
 ## Lojas
 ### Eletrônica Geral
-- [FilipeFlop](https://www.filipeflop.com/) - Loja de Santa Catarina focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
+- [makerHero](https://www.MakerHero.com/) - Loja de Santa Catarina (antiga FelipeFlop) focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
 - [Robocore](https://www.robocore.net/) - Loja também focada em Arduino e Raspberry Pi, com alguma coisa de componentes eletrônicos.
 - [Ryndack Componentes](https://www.ryndackcomponentes.com.br/) - Loja de componentes eletrônicos.
 - [Solda Fria](https://www.soldafria.com.br/) - Loja de componentes eletrônicos.
